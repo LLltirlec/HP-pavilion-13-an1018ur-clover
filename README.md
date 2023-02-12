@@ -1,4 +1,4 @@
-# HP-pavilion-13-an1019ur-clover
+# HP-pavilion-13-an1018ur-clover
 Clover for HP Pavilion 13-an1018ur
 ![Снимок экрана 2023-02-12 в 21 13 58](https://user-images.githubusercontent.com/19612593/218329286-ebefd52d-b91d-4e3d-ae28-39564d42662f.png)
 
