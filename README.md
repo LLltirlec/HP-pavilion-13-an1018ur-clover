@@ -16,11 +16,10 @@ Clover for HP Pavilion 13-an1018ur
 - [x] USB
 - [x] Webcam
 - [x] Brightness controls
-- [x] TouchPad
 - [x] Speakers
 - [x] Integrated Microphone (you can talk to Siri)
 - [x] Apple Services (iCloud, Apple Music, Apple TV ...)
-- [x] SD Card Reader (haven't tested)
+- [x] SD Card Reader
 - [x] TouchPad with Advanced Gestures
 - [x] Battery percentage
 
